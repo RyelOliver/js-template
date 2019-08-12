@@ -8,7 +8,9 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript"
+  ],
   "author": "Ryel Oliver <rmuchunku@gmail.com> (https://github.com/RyelOliver)",
   "license": "ISC",
   "devDependencies": {
