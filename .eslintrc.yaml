@@ -7,11 +7,6 @@ env:
 parserOptions:
     ecmaVersion: 2019
 rules:
-    # For development use
-    # no-debugger:
-    #     - off
-    # no-console:
-    #     - off
     indent:
         - error
         - 4
